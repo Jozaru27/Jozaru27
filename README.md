@@ -1,6 +1,8 @@
 <!-- Header Section: Greetings, Bio and Info -->
 ## Hi there 👋
 
+<!-- https://codesandbox.io/s/readme-intro-gif-forked-t4rnjx?file=/src/main.js lmao what -->
+
 My name is Jose Zafrilla - Greetings from Valencia🥘 <br>
 
 > I am a passionate self-motivated tech enthusiast, looking out for new technologies in the field of computer science, particularly those related to programming, web development, and software. 
