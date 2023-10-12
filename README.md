@@ -52,23 +52,23 @@ Still want to know more about me?
 <details>
 <summary> 🖥️ IT related Skills </summary> <br>
 
-· Assemble and mantain computer equipment
-· Local Area Networks
-· Office Applications and others
-· Single-user/Multi-user operating systems environments
-· Network Operating Systems
-· Computer Security
-· Network Services
-· Web Applications
-· Vocational Training, Labor Guidance, Business and Entrepreneurial Initiative
-· Web Hosting Systems
-· Servers & Clients
-· MYSQL Databases
-· Worked with environments like Github and Docker
+· Assemble and mantain computer equipment<br>
+· Local Area Networks<br>
+· Office Applications and others<br>
+· Single-user/Multi-user operating systems environments<br>
+· Network Operating Systems<br>
+· Computer Security<br>
+· Network Services<br>
+· Web Applications<br>
+· Vocational Training, Labor Guidance, Business and Entrepreneurial Initiative<br>
+· Web Hosting Systems<br>
+· Servers & Clients<br>
+· MYSQL Databases<br>
+· Worked with environments like Github and Docker<br>
 
-Miscelaneous IT Certifications:
-· Cisco Networking and Routing
-· Microsoft Office Specialist
+Miscelaneous IT Certifications:<br>
+· Cisco Networking and Routing<br>
+· Microsoft Office Specialist<br>
 
 </details>
 
