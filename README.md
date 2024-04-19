@@ -8,7 +8,7 @@ My name is Jose Zafrilla - Greetings from Valencia🥘 <br>
 > I am a passionate self-motivated tech enthusiast, looking out for new technologies in the field of computer science, particularly those related to programming, web development, and software. 
 > I've always been keen not only on technology, and how pretty it may look, but also how its made - I enjoy both backend and frontend! <br>
 
-Currently studying and looking to improve my skills!<br><br>
+Currently working on a little project...!<br><br>
 
 <!-- Skills & Learning section -->
 
