@@ -13,10 +13,10 @@ Currently working on a little project...!<br><br>
 <!-- Skills & Learning section -->
 
 ### 👨‍💻 My Skills 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,java,blender,ps,wordpress,mysql,php)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,java,blender,ps,wordpress,mysql,php,unity,blender,cs)](https://skillicons.dev)<br><br>
 
 ### 🛠️ Currently Learning...
-[![Currently Learning...](https://skillicons.dev/icons?i=unity,blender,cs)](https://skillicons.dev)<br><br>
+[![Currently Learning...](https://skillicons.dev/icons?i=godot,cpp)](https://skillicons.dev)<br><br>
 
 <!-- Gif under construction -->
 <!-- The video used in the gif was taken from: https://www.youtube.com/watch?v=s9xk77X4m5c -->
